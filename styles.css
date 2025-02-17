@@ -177,6 +177,7 @@ circled-word {
   footer h2 {
     color:white;
     letter-spacing: 2px;
+    font-weight: 600;
   }
  
   .h3active {
@@ -207,4 +208,9 @@ circled-word {
 .quotes {
   font-size:150px;
   transform: rotate(15deg); 
+}
+
+.container h2 {
+  margin-top: 20px;
+  font-weight: 600;
 }
