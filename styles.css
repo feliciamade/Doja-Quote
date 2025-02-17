@@ -41,13 +41,13 @@ h2 {
 }
 
 .container img {
-width: 40%;
+width: 50%;
 height:auto;
 }
 
 h1 {
     display:inline;
-    width:65%;
+    width:70%;
     font-size: 3.125rem;
     font-weight: 600;
     text-transform: uppercase;
