@@ -25,7 +25,7 @@ h1 {
     text-transform: uppercase;
     line-height: 68px;
     text-align: center;
-    margin-top: -70px;
+    margin-top: 10px;
     transform: rotate(-1.2deg); 
 
 }
@@ -42,8 +42,12 @@ div {
 }
 
 h1 img {
-    width:100px;
+    width:50px;
     height:50px;
+}
+
+i {
+    color:rgb(155, 155, 255);
 }
 
 .big {
@@ -105,6 +109,6 @@ h1 img {
 
 
   footer {
-    background-color: black;
+    background-color: rgb(28, 22, 41);
     height:200px;
   }
