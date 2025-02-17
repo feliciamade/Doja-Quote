@@ -37,7 +37,7 @@ h2 {
   background-size:contain;
   background-size: 2000px 2000px;
 
-  margin:70px; 
+  margin:100px; 
 }
 
 .container img {
@@ -92,7 +92,7 @@ i {
     font-weight: 800;
 }
 
-.circled-word {
+circled-word {
     display: inline-block; 
     padding: 0.2em 0.4em; 
     border-radius: 50%; 
